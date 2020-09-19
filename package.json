@@ -1,12 +1,14 @@
 {
   "name": "angular-crud",
   "version": "1.0.0",
-  "description": "ANGULAR 10 - TYPESCRIPT - NODEJS - JSON-SERVER",
+  "description": "ANGULAR 10 - TYPESCRIPT - CSS - NODEJS - JSON-SERVER",
   "main": "",
   "scripts": {
+    "backendDep": "cd backend && npm i",
     "backend": "cd backend && npm start",
+    "frontendDep": "cd frontend && npm i",
     "frontend": "cd frontend && npm start",
-    "start": "npm-run-all -p backend frontend"
+    "start": "npm-run-all -s backendDep frontendDep -p backend frontend"
   },
   "repository": {
     "type": "git",
