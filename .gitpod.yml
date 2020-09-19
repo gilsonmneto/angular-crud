@@ -1,6 +1,6 @@
 image: gitpod/workspace-full
-tasks:
-  - init: npm install
-  - command: (cd backend ; npm start)
-  - command: (cd frontend ; npm start)
+tasks: 
+  - before: npm i
+    command: (cd backend ; npm start)
+    command: (cd frontend ; npm start)
 
