@@ -1,5 +1,7 @@
 Topics: ANGULAR 10, TYPESCRIPT, NODEJS, JSON-SERVER
 
+Application: Simple CRUD (create, read, update, delete)
+
 To run project online:
 
 Step 1:
