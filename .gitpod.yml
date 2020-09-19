@@ -1,10 +1,7 @@
 image: gitpod/workspace-full
 tasks: 
-  - before: npm i
-    init: (cd backend ; npm i)
-    command: (cd backend ; npm start)
-  - command: (cd frontend ; npm i)
-    command: (cd frontend ; npm start)
+- init: npm i && (cd backend ; npm i) && (cd backend ; npm start)
+- command: (cd frontend ; npm i) && (cd frontend ; npm i)
 	
 
 
