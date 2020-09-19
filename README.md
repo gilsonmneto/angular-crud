@@ -12,8 +12,8 @@ Step 1:
 
 Step 2:
 
-### `npm i`
+### npm i
 
 Step 3:
 
-### `npm start`
+### npm start
