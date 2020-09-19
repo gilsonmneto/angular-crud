@@ -1,12 +1,14 @@
+# Angular 10 - CRUD
+
 Topics: ANGULAR 10, TYPESCRIPT, NODEJS, JSON-SERVER
 
-Application: Simple CRUD (create, read, update, delete)
+Details: Simple CRUD (create, read, update, delete)
 
 To run project online:
 
 Step 1:
 
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/gilsonmneto/angular-crud)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gilsonmneto/angular-crud)
 
 Step 2:
 
