@@ -1,6 +1,6 @@
 # Angular 10 - CRUD
 
-Topics: ANGULAR, TYPESCRIPT, NODEJS, JSON-SERVER
+Topics: ANGULAR, TYPESCRIPT, NODEJS, JSON-SERVER, MATERIAL
 
 Application: Simple CRUD (create, read, update, delete)
 
