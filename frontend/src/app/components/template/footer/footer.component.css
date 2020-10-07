@@ -1,17 +1,16 @@
-.footer{
-    position: fixed;
-    bottom: 0;
-    display: flex;
-    justify-content: flex-end;
+.footer {
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  justify-content: flex-end;
 }
 
-.footer > span{
-    color: white;
-    font-size: 1rem;
-    font-weight: 400;
+.footer > span {
+  color: black;
+  font-size: 1rem;
+  font-weight: 400;
 }
-
 
 .v-middle {
-    vertical-align: middle;
+  vertical-align: middle;
 }
